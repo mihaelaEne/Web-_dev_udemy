@@ -1,0 +1,15 @@
+/* fac ca toate li urile sa fie albastre  */
+li {
+    color: blue;
+}
+
+/* fac ca fiecare clasa cu done sa fie gri */
+.done {
+    color: grey;
+}
+
+/* fiecare element cu id ul de clear sa aiba fundal rosu si scris alb */
+#clear {
+    background-color: red;
+    color: white;
+}
